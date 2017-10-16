@@ -1,0 +1,2 @@
+# PP_Team_Project
+IoT system created on a software architecture based on reactive programming paradigm. IoT system are composed from a several interconnected devices. In our system we will have a central processing unit which will receive the events triggered by the “things”, analyze them and take decisions. The CPU will behave as a dispatcher. For achieving a clean architecture, we will use a reactive programming approach.
